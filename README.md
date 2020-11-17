@@ -1,5 +1,10 @@
 <img src="https://github.com/bilalmotiwala/bilalmotiwala/blob/main/blob/master/assets/Heading.gif" align="center" />
 
+I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgia. I am currently learning and working towards using Data Science and Financial Data to explore the world of Financial Data Science. Alongside that, I have some minor experience working in Web Development and Back End Development.
+
+#### Languages and Tools
+
+
 
 
 <!--
