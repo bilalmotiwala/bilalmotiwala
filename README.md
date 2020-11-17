@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](/blob/master/assets/header.gif)
-
+<img src="https://github.com/bilalmotiwala/bilalmotiwala/blob/main/blob/master/assets/Heading.gif" align="center" />
 <!--
 **bilalmotiwala/bilalmotiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
