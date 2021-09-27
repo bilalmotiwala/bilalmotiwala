@@ -6,13 +6,10 @@ I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgi
 
 [![Bilal's Github stats](https://github-readme-stats.vercel.app/api?username=bilalmotiwala&count_private=true&show_icons=true&hide=prs&custom_title=My%20Github%20Stats&theme=nord)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmotiwala&layout=compact&custom_title=Languages%20I'm%20Familiar%20With&theme=nord)](#) 
 
-<h3 align="center">I'm able to do something in</h3>
+<h3 align="center">I've drowned in many things like</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 10%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 10%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 10%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="width: 10%"/>
-
-
-
+  Coming Soon! :)
 </div>
 
 <!--
