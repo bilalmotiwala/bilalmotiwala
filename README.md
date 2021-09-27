@@ -6,9 +6,9 @@ I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgi
 
 [![Bilal's Github stats](https://github-readme-stats.vercel.app/api?username=bilalmotiwala&count_private=true&show_icons=true&hide=prs&custom_title=My%20Github%20Stats&theme=nord)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmotiwala&layout=compact&custom_title=Languages%20I'm%20Familiar%20With&theme=nord)](#) 
 
-<h3 align="center">I'm </h3>
+<h3 align="center">I'm able to do something in</h3>
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <!--
 **bilalmotiwala/bilalmotiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
