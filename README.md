@@ -8,8 +8,7 @@ I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgi
 
 <h3 align="center">I'm able to do something in</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/>
 
 
 <!--
