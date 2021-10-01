@@ -4,9 +4,7 @@ I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgi
 
 <h3 align="center">An Overview Into My Stats and Skills</h3>
 
-<div align="center">
 [![Bilal's Github stats](https://github-readme-stats.vercel.app/api?username=bilalmotiwala&count_private=true&show_icons=true&hide=prs&custom_title=My%20Github%20Stats&theme=nord)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmotiwala&layout=compact&custom_title=Languages%20I'm%20Familiar%20With&theme=nord)](#) 
-</div>
 
 <h3 align="center">I may not know how to swim but I've semi-drowned in</h3>
 
