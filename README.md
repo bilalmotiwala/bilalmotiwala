@@ -10,10 +10,6 @@ Well, I am a Senior Year Computer Engineering Student in the Bachelors Program a
 
 I am more of a Product Manager as you may choose to call it. I've got my essential skills in Database Development, Application Architecture, Front-End Development, Back-End Development and Machine Learning but I think the good mix of knowing them all has allowed me to really guide implementations and come up with nifty solutions to many problems around me.
 
-<h3 align="center">Some Cool Github Widgets - Accidental Discoveries so why not flex?</h3>
-
-[![Bilal's Github stats](https://github-readme-stats.vercel.app/api?username=bilalmotiwala&count_private=true&show_icons=true&hide=prs&custom_title=My%20Github%20Stats&theme=nord)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmotiwala&layout=compact&custom_title=Languages%20I'm%20Familiar%20With&theme=nord)](#) 
-
 <h3 align="center">What can I work in and around?</h3>
 
 Oh boy. This is a really wide list but really, these are the ones I've sort of gone headfirst into. Some of these, I have personally made projects on for my university or for requirements during my professional experience yet most, I've just gone in blind and needed to figure my way through at work to "resolve random unexpected and unwanted features"
@@ -24,3 +20,5 @@ Oh boy. This is a really wide list but really, these are the ones I've sort of g
 </div>
 
 If you've come so far reading my bio, well, thanks!
+
+Lastly, proudly blabbered with LOVE 💕 and the power of **~~THOR~~** the Internet.
