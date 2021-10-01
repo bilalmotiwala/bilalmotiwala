@@ -6,10 +6,10 @@ I'm a student of Computer Engineering and Tech Engineer based in Tbilisi, Georgi
 
 [![Bilal's Github stats](https://github-readme-stats.vercel.app/api?username=bilalmotiwala&count_private=true&show_icons=true&hide=prs&custom_title=My%20Github%20Stats&theme=nord)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmotiwala&layout=compact&custom_title=Languages%20I'm%20Familiar%20With&theme=nord)](#) 
 
-<h3 align="center">I've drowned in many things like</h3>
+<h3 align="center">I may not know how to swim but I've semi-drowned in</h3>
 
 <div align="center">
-  Coming Soon! :)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 10%"/>
 </div>
 
 <!--
