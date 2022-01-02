@@ -4,7 +4,7 @@
 
 Dark Clouds, Heavy Rain, The gusts of wind against the trees and be.... Rewind, too fictionous 😂
 
-Well, I am a Senior Year Computer Engineering Student in the Bachelors Program at Ilia State University, Tbilisi, Georgia. I was born in Pakistan, lived mostly in Doha, Qatar and then again in Pakistan until I moved across to Tbilisi for my "education" (psst.. between us, it was more the wine and cheese stringing me along here)
+I was born in Pakistan, lived mostly in Doha, Qatar and then again in Pakistan until I moved across to Tbilisi for my "education" (psst.. between us, it was more the wine and cheese stringing me along here) and been here since then. Well we can all agree the pandemic hasn't allowed a lot of travel now.
 
 <h3 align="center">What do I do?</h3>
 
