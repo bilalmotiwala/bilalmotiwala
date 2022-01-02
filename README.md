@@ -2,13 +2,11 @@
 
 <h3 align="center">About Me</h3>
 
-Dark Clouds, Heavy Rain, The gusts of wind against the trees and be.... Rewind, too fictionous 😂
-
 I was born in Pakistan, lived mostly in Doha, Qatar and then again in Pakistan until I moved across to Tbilisi for my "education" (psst.. between us, it was more the wine and cheese stringing me along here) and been here since then. Well we can all agree the pandemic hasn't allowed a lot of travel now.
 
 <h3 align="center">What do I do?</h3>
 
-I'm really just more of passionate to being challenged and building something better. I've got my essential skills in Database Development, Application Architecture, Front-End Development, Back-End Development and Machine Learning but I think the good mix of knowing them all has allowed me to really guide implementations and come up with nifty solutions to many problems around me.
+I'm really just more of passionate to being challenged and building something better. I've got my hands into enough places along the way to get where I am today but I think the good mix of this knowledge adventure and exploration allowed me to really create, guide and scale implementations and come up with nifty solutions to many problems around me.
 
 <h3 align="center">What can I work in and around?</h3>
 
