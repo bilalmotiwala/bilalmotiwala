@@ -1,5 +1,5 @@
 <h3>About Me</h3>
-Hey there! Bilal Motiwala here. I'm a software developer with my hands in web applications, blockchain development and other side projects. I'm building Pyme as the co-founder and CTO. Other than that, I'm from Pakistan, been travelling around and a high school dropout.
+Hey there! Bilal Motiwala here. I'm a software developer with my hands in web applications, blockchain development and other side projects. I'm building Pyme as the Co-founder and CTO and also building Supapowr by Supapowr Labs. Other than that, I'm from Pakistan, been travelling around and a high school dropout.
 
 <h3>What do I do?</h3>
 I'm most famous for overcomplications, using a lot of words but then building solutions that work. Currently I'm taking it up a notch as the CTO of Pyme.
