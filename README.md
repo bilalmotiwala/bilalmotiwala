@@ -1,12 +1,9 @@
 <h3>About Me</h3>
-Hey there! Bilal Motiwala here. I'm a software developer with my hands in web applications, blockchain development and other side projects. I'm building Pyme as the Co-founder and CTO and also building Supapowr by Supapowr Labs. Other than that, I'm from Pakistan, been travelling around and a high school dropout.
+Hey there! Bilal Motiwala here. I'm the Founder and CTO of PymeDAO. Currently working on quite a few interesting projects under the PymeDAO flag (stay tuned). I'm from Pakistan and a college dropout. 
 
-<h3>What do I do?</h3>
-I'm most famous for overcomplications, using a lot of words but then building solutions that work. Currently I'm taking it up a notch as the CTO of Pyme.
+<h3>What am I best know as?</h3>
+Chief Complications Officer. Know how to either make 'em or solve 'em. It's one or the other end of this spectrum for me.
 
-<h3>What can I work in and around?</h3>
-There's an evergrowing list. I'm not a master in any yet more the jack of all trades type.
+This Github Profile is VERY out of date yet all projects are private so you'll have to make do.
 
-If you've come so far reading my bio, well, thanks!
-
-Lastly, proudly blabbered with LOVE 💕 and the power of **~~THOR~~** the Internet.
+Thanks for reading 💕 via the power of **~~THOR~~** the Internet.
