@@ -1,9 +1,12 @@
 <h3>About Me</h3>
-Hey there! Bilal Motiwala here. I'm the Founder and CTO of PymeDAO. Currently working on quite a few interesting projects under the PymeDAO flag (stay tuned). I'm from Pakistan and a college dropout. 
+Hey there! Bilal Motiwala here. I'm currently building Kikx and PymeDAO (stay tuned for more info). I'm from Pakistan.
 
 <h3>What am I best know as?</h3>
 Chief Complications Officer. Know how to either make 'em or solve 'em. It's one or the other end of this spectrum for me.
+Most of my work lives PRIVATE so the other projects, well they're quite out of date.
 
-This Github Profile is VERY out of date yet all projects are private so you'll have to make do.
+<h4></h4>
+Aside that, you can reach me at bilal@pyme.id if you want to do so.
 
-Thanks for reading 💕 via the power of **~~THOR~~** the Internet.
+<h4></h4>
+Thanks for reading and this was brought to you 💕 by the power of **~~THOR~~** the Internet.
