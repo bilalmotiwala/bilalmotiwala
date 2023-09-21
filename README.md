@@ -9,4 +9,4 @@ Most of my work lives PRIVATE so the other projects, well they're quite out of d
 Aside that, you can reach me at bilal@pyme.id if you want to do so.
 
 <h4></h4>
-Thanks for reading and this was brought to you 💕 by the power of **~~THOR~~** the Internet.
+Thanks for reading and this was brought to you 💕 by the power of the Internet.
