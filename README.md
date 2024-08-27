@@ -7,7 +7,7 @@ Planned, developed and managed multi-faceted products including custom CRMs and 
 <br/>
 
 <h2>Get In Touch</h2>
-Feel free to send me an [email](mailto:muhammedb.vi1@gmail.com) or send a message on Telegram (@bilalmotiwala). Also, I'm currently on the look out for new opportunities.
+Feel free to send me an email at [muhammedb.vi1@gmail.com] or send a message on Telegram [@bilalmotiwala]. Also, I'm currently on the look out for new opportunities.
 <br/>
 
 <h2>Experience</h2>
