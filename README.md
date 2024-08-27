@@ -27,7 +27,7 @@ Feel free to send me an email at [muhammedb.vi1@gmail.com] or send a message on 
 <b>Buildspace Sharktank and Demo Day Winner:</b> Received grant prizes from Buildspace as founder of PymeDAO.
 
 <h2>Languages, Tools and Skills</h2>
-<b>Programming:</b> Javascript, Typescript, NodeJS, React, NextJS, Solidity, Hardhat, Foundry, Python, NoSQL
+<b>Languages/Tools:</b> Javascript, Typescript, HTML5, CSS3, NodeJS, Express, React, NextJS, Solidity, Hardhat, Foundry, Python, NoSQL, Firebase, NextUI, TailwindCSS, IPFS, Git, VS Code
 <br/><br/>
 <b>Google Cloud:</b> Cloud Functions, AppEngine, Cloud Shell, Node Management, Pub/Sub
 <br/><br/>
